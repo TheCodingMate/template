@@ -12481,3 +12481,9 @@ a.text-link:hover {
 .signup-form .btn{
   padding: 2px 8px;
 }
+
+.blog-list .item .post-thumb {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
